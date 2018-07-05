@@ -6,3 +6,4 @@ now lets try gist
 git clone https://github.com/Pearcee/Powershell.git
 
 using VSC 
+press ctrl + enter to coomit 
