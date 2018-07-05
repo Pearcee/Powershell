@@ -1,6 +1,6 @@
 # Powershell
 Powershell snippets
-now lets try gis
+now lets try git
 0 test
 1 test
 git clone https://github.com/Pearcee/Powershell.git
