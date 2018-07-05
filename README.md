@@ -8,5 +8,6 @@ git clone https://github.com/Pearcee/Powershell.git
 using VSC 
 ctrl + s, press ctrl + enter to comit 
 after making changes
+then push
 
 
