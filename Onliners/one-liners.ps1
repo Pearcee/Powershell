@@ -15,5 +15,5 @@ Install-Module Posh-Git -Scope AllUsers
 
 <#
 # powershell 6 - pwsh
-get-computerinfo
+(get-computerinfo).csname
 #>
