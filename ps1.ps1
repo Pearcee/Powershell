@@ -76,3 +76,8 @@ Send-MailMessage @Params
 
 #
 #>
+
+
+Write-Verbose "[$(Get-Date -format G)] message"
+
+Write-Verbose "[$(Get-Date -format G)] message" Write-Verbose "[$(Get-Date -format G)] message"
